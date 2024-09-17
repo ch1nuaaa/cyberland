@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333; /* Dark gray text */
+}
+
+h1 {
+  color: #007bff; /* Blue heading */
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  text-align: center;
+  margin: 10px 0;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+  text-align: left; /* Align list items to the left */
+}
+
+li {
+  margin-bottom: 5px;
+}
